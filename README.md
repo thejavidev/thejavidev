@@ -28,6 +28,14 @@
 
 ---
 
+### 📺 Latest My Projects
+
+<!-- Github:START -->
+- [Azcanet.ca](https://github.com/thejavidev/MyPorjects/tree/main/PROJECTS](https://azcanet.ca/)
+- [Vkgroup.az](https://github.com/thejavidev/MyPorjects/tree/main/SITES](https://vkgroup.az/)
+- [Corn.az](https://corn.az/)
+- [Klimatex.az]([https://corn.az/](https://klimatex.az/))
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
