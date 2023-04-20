@@ -30,11 +30,14 @@
 
 ### 📺 Latest My Projects
 
-<!-- Github:START -->
-- [Azcanet.ca](https://github.com/thejavidev/MyPorjects/tree/main/PROJECTS](https://azcanet.ca/)
-- [Vkgroup.az](https://github.com/thejavidev/MyPorjects/tree/main/SITES](https://vkgroup.az/)
+- [Cavidan.info](https://cavidan.info/)
+- [Azcanet.ca](https://azcanet.ca/)
+- [Vkgroup.az](https://vkgroup.az/)
 - [Corn.az](https://corn.az/)
-- [Klimatex.az]([https://corn.az/](https://klimatex.az/))
+- [Klimatex.az](https://klimatex.az/)
+- [Impler.com](https://impler.com/)
+- [Mmlogistics.az](https://mmlogistics.az/)
+- [Maricel.az](https://maricel.az/)
 
 ### 📺 Latest YouTube Videos
 
