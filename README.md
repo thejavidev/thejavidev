@@ -1,4 +1,4 @@
-### Hi there, I'm Javid - [website] 👋
+### Hi there, I'm Javid 👋
 
 ## I'm a Front End Developer
 
